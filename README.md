@@ -1,5 +1,9 @@
 mongo_gridfs
 ============
+### Important Notes
+- Use fix_deprecated branch 
+  - This branch has fixes to resolve deprecations
+  - Requires OTP 20 or above 
 
 This Erlang library provides access to files stored in a MongoDB database using the GridFS convention.
 
